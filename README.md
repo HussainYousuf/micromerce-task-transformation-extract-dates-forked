@@ -39,3 +39,8 @@ Anmerkungen:
 - Beispiele für Customer sind in ./src/data/customer.js zu finden.
 
 Zum Überprüfen Ihrer Lösung können Sie im Abschnitt Tests schauen.
+
+# Commands:
+```
+npm run test
+```
